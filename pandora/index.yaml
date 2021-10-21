@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pandora:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-21T21:33:36.588039453+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 93716693e9d1dfa390ee867fe77775d18f9d52a1e77a4509b3696aa494ec0253
+    name: pandora
+    type: application
+    urls:
+    - https://github.com/goluzdravi-penzioner/helm-charts.git/pandora-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-21T21:33:36.587131822+02:00"
